@@ -5,14 +5,12 @@
 ## About Me
 I am a biologist and researcher with a strong passion for evolution and biodiversity. I hold a MSc. Bioinformatics form the University of Bristol (2023/24), graduated with distinction, and a BSc. Biology from the Cayetano Heredia Peruvian University. I’m enthusiastic about contributing to the improvement of pipelines for NGS analysis and their downstream application.
 
-Current position:
+Relevant position:
 * Coordinator for the practical session the at Evolution undergrad course at Cayetano Heredia Peruvian University.
 * Bioinformatics consultant at the [Protozoan and Endosymbiont Pathogens](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia-lpep/).
 * Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
   
-Previous positions:
-* I collaborated as research assistant at the [Marine Biology Lab](https://investigacion.cayetano.edu.pe/catalogo/ecologia-biomarina/) after completing my undergrad thesis.
-* Data analysis intern at [CLIMA](https://investigacion.cayetano.edu.pe/catalogo/clima/). 
+See previous positions and more about my professional experience at [LinkedIn](https://www.linkedin.com/in/sciruiz/).
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
