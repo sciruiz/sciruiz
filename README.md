@@ -3,7 +3,15 @@
 **Bioinformatician and Biologist.**
 
 ## About Me
-I am a biologist and researcher with a great interest for evolution and biodiversity. MSc. Bioinformatics form the University of Bristol. Coordinator for the practical session the at Evolution undergrad course at Cayetano Heredia Peruvian University. Bioinformatics consultant at the [Protozoan and Endosymbiont Pathogens](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia-lpep/). I collaborated as research assistant at the [Marine Biology Lab](https://investigacion.cayetano.edu.pe/catalogo/ecologia-biomarina/) after completing my undergrad thesis. 
+I am a biologist and researcher with a strong passion for evolution and biodiversity. I hold a MSc. Bioinformatics form the University of Bristol (2023/24), graduated with distinction, and a BSc. Biology from the Cayetano Heredia Peruvian University. I’m enthusiastic about contributing to the improvement of pipelines for NGS analysis and their downstream application.
+
+Current position:
+* Coordinator for the practical session the at Evolution undergrad course at Cayetano Heredia Peruvian University.
+* Bioinformatics consultant at the [Protozoan and Endosymbiont Pathogens](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia-lpep/).
+* Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
+  
+Previous positions:
+* I collaborated as research assistant at the [Marine Biology Lab](https://investigacion.cayetano.edu.pe/catalogo/ecologia-biomarina/) after completing my undergrad thesis. 
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -14,11 +22,13 @@ I am a biologist and researcher with a great interest for evolution and biodiver
 
 ## Skills 
 ![NGS](https://img.shields.io/badge/NGS-blue?style=flat-square&logo=dna&logoColor=white)
-![Phylogenetics](https://img.shields.io/badge/Phylogenetics-green?style=flat-square&logo=tree&logoColor=white)
+![Phylogenomics](https://img.shields.io/badge/Phylogenetics-green?style=flat-square&logo=tree&logoColor=white)
 ![Genomics](https://img.shields.io/badge/Genomics-purple?style=flat-square&logo=biolink&logoColor=white)
 ![Transcriptomics](https://img.shields.io/badge/Transcriptomics-orange?style=flat-square&logo=files&logoColor=white)
 
-
+## Research interests
+Sensing and perception evolution, the role of gene duplications in protein evolution and the emergence of new traits. 
+Efforts towards reconstructing the natural history behind the web of life. 
 
 _“An understanding of the natural world is a source of not only great curiosity, but great fullfilment.” – David Attenborough_
 <!--
