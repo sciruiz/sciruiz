@@ -9,7 +9,7 @@ I'm a biologist and researcher with a great interest for evolution and biodivers
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ## Skills 
 ![NGS](https://img.shields.io/badge/NGS-blue?style=flat-square&logo=dna&logoColor=white)
