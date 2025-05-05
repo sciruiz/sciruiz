@@ -11,7 +11,8 @@ Current position:
 * Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
   
 Previous positions:
-* I collaborated as research assistant at the [Marine Biology Lab](https://investigacion.cayetano.edu.pe/catalogo/ecologia-biomarina/) after completing my undergrad thesis. 
+* I collaborated as research assistant at the [Marine Biology Lab](https://investigacion.cayetano.edu.pe/catalogo/ecologia-biomarina/) after completing my undergrad thesis.
+* Data analysis intern at [CLIMA](https://investigacion.cayetano.edu.pe/catalogo/clima/). 
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
