@@ -1,18 +1,15 @@
 ## 👋 Welcome!
----
 **My name is Isabel Ruiz. Bioinformatician and Biologist.**
 
-## 🧬 About Me
-
+## About Me
 I'm a biologist. 
 
 ## Skills
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-_“An understanding of the natural world is a source of not only great curiosity, but great fulfilment.” – David Attenborough_
+_“An understanding of the natural world is a source of not only great curiosity, but great fullfilment.” – David Attenborough_
 <!--
 **iRuiz-Ruiz/iRuiz-Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
