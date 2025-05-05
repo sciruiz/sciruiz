@@ -1,9 +1,9 @@
 ## 👋 Welcome!
 **I am Isabel Ruiz.**
-**Bioinformatician and Biologist.**
+**Bioinformatician and Evolutionary Biologist.**
 
 ## About Me
-I am a biologist and researcher with a strong passion for evolution and biodiversity. I hold a MSc. Bioinformatics form the University of Bristol (2023/24), graduated with distinction, and a BSc. Biology from the Cayetano Heredia Peruvian University. I’m enthusiastic about contributing to the improvement of pipelines for NGS analysis and their downstream application.
+I am a researcher with a strong passion to explore the world of non-model organism and the evolutionary history behind them. Eukarya enthusiastic! I hold a MSc. Bioinformatics form the University of Bristol (2023/24), graduated with distinction, and a BSc. Biology from the Cayetano Heredia Peruvian University. I’m enthusiastic about contributing to the improvement of pipelines for NGS analysis and their downstream application.
 
 Relevant position:
 * Coordinator for the practical session the at Evolution undergrad course at Cayetano Heredia Peruvian University.
