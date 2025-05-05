@@ -1,18 +1,25 @@
-## Hi there 👋
-
-# 👋 Welcome!
+## 👋 Welcome!
 ---
 **My name is Isabel Ruiz. Bioinformatician and Biologist.**
 
 ## 🧬 About Me
 
-I'm a bioinformatician with a passion for turning complex biological data into actionable insights. With a background in [e.g., molecular biology, computer science], I specialize in:
+I'm a biologist. 
 
-- 🧠 Genomics & Transcriptomics
-- 🧪 NGS Data Analysis (RNA-seq, DNA-seq, ChIP-seq)
-- 🧰 Python, R, Bash, Snakemake, Nextflow
+## Skills
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+_“An understanding of the natural world is a source of not only great curiosity, but great fulfilment.” – David Attenborough_
+<!--
+**iRuiz-Ruiz/iRuiz-Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Snakemake](https://img.shields.io/badge/Snakemake-1E90FF?logo=snakemake&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-7B42BC?logo=nextflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 📂 Featured Projects
 
@@ -29,26 +36,6 @@ I'm a bioinformatician with a passion for turning complex biological data into a
 - 🧪 Analyzed [type of data] using [methodology]
 - 🚀 Scaled with Nextflow/Snakemake
 - 🧾 Results contributed to [publication, thesis, etc.]
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-_“An understanding of the natural world is a source of not only great curiosity, but great fulfilment.” – David Attenborough_
-
-<!--
-**iRuiz-Ruiz/iRuiz-Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Snakemake](https://img.shields.io/badge/Snakemake-1E90FF?logo=snakemake&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-7B42BC?logo=nextflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 Here are some ideas to get you started:
 - 📊 Statistical Modeling & Machine Learning
