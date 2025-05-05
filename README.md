@@ -2,7 +2,7 @@
 **My name is Isabel Ruiz. Bioinformatician and Biologist.**
 
 ## About Me
-I'm a biologist. 
+I'm a biologist and researcher with a great interest for evolution and biodiversity. MSc. Bioinformatics form the University of Bristol. Coordinator for the practical session the at Evolution undergrad course at Cayetano Heredia Peruvian University. Bioinformatics consultant at the ![Protozoan and Endosymbiont Pathogens](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia-lpep/). I collaborated as research assistant at the ![Marine Biology Lab](https://investigacion.cayetano.edu.pe/catalogo/ecologia-biomarina/) after completing my undergrad thesis. 
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
