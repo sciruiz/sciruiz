@@ -4,10 +4,20 @@
 ## About Me
 I'm a biologist and researcher with a great interest for evolution and biodiversity. MSc. Bioinformatics form the University of Bristol. Coordinator for the practical session the at Evolution undergrad course at Cayetano Heredia Peruvian University. Bioinformatics consultant at the ![Protozoan and Endosymbiont Pathogens](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia-lpep/). I collaborated as research assistant at the ![Marine Biology Lab](https://investigacion.cayetano.edu.pe/catalogo/ecologia-biomarina/) after completing my undergrad thesis. 
 
-## Skills
+## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+
+## Skills 
+![NGS](https://img.shields.io/badge/NGS-blue?style=flat-square&logo=dna&logoColor=white)
+![Phylogenetics](https://img.shields.io/badge/Phylogenetics-green?style=flat-square&logo=tree&logoColor=white)
+![Genomics](https://img.shields.io/badge/Genomics-purple?style=flat-square&logo=biolink&logoColor=white)
+![Transcriptomics](https://img.shields.io/badge/Transcriptomics-orange?style=flat-square&logo=files&logoColor=white)
+
+
 
 _“An understanding of the natural world is a source of not only great curiosity, but great fullfilment.” – David Attenborough_
 <!--
