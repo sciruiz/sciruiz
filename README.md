@@ -9,8 +9,8 @@ Relevant position:
 * Coordinator for the practical session the at Evolution undergrad course at Cayetano Heredia Peruvian University.
 * Bioinformatics consultant at the [Protozoan and Endosymbiont Pathogens](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia-lpep/).
 * Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
-  
-See previous positions and more about my professional experience at [LinkedIn](https://www.linkedin.com/in/sciruiz/).
+
+You can check out my previous positions and learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/sciruiz/).
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
