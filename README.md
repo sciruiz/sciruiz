@@ -7,7 +7,6 @@ I am a researcher with a strong passion to explore the world of non-model organi
 
 Relevant position:
 * Collaborate the practical sessions for the undergraduate Evolution course at Cayetano Heredia Peruvian University (Tree-Thinking, Phylogenetic Reconstruction, Data Mining and Topics in R).
-* Bioinformatics consultant at the [Protozoan and Endosymbiont Pathogens](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia-lpep/).
 * Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
 
 You can check out my previous positions and learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/sciruiz/).
