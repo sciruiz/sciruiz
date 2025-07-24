@@ -6,7 +6,7 @@
 I am a researcher with a strong passion to explore the world of non-model organism and the evolutionary history behind them. Eukarya enthusiastic! I hold a MSc. Bioinformatics form the University of Bristol (2023/24), graduated with distinction, and a BSc. Biology from the Cayetano Heredia Peruvian University. I’m enthusiastic about contributing to the improvement of pipelines for NGS analysis and their downstream application.
 
 Relevant position:
-* Research Assistant in the Andean Bear Project at the Research Institute for Ecology and Coservation (Trujillo, Peru) [IIECCO](https://www.iiecco.org).
+* Research Assistant in the Andean Bear Project at the [Research Institute for Ecology and Coservation](https://www.iiecco.org) (Trujillo, Peru).
 * Collaborate the practical sessions for the undergraduate Evolution course at Cayetano Heredia Peruvian University (Tree-Thinking, Phylogenetic Reconstruction, Data Mining and Topics in R).
 * Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
 
