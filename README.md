@@ -11,6 +11,7 @@ Relevant position:
 * Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
 
 You can check out my previous positions and learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/sciruiz/).
+If you are interested to contact me you can complete this [Google Form](https://forms.gle/ctKMwxgKzokTyNzD6). I'll be in touch soon!
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
