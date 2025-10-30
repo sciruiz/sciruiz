@@ -3,7 +3,7 @@
 **Bioinformatician and Evolutionary Biologist.**
 
 ## About Me
-I am a researcher with a strong passion to explore the world of non-model organism and the evolutionary history behind them. Eukarya enthusiastic! I hold a MSc. Bioinformatics form the University of Bristol (2023/24), graduated with distinction, and a BSc. Biology from the Cayetano Heredia Peruvian University. I’m enthusiastic about contributing to the improvement of pipelines for NGS analysis and their downstream application.
+I am a researcher with a strong passion for exploring the evolutionary history of sensing and perception in the context of multicellularity, with a particular interest in non-model organisms. Eukarya enthusiastic! I hold a MSc. Bioinformatics form the University of Bristol (2023/24), graduated with distinction, and a BSc. Biology from the Cayetano Heredia Peruvian University. I am eager to help advance and refine workflows for next-generation sequencing (NGS) analysis and their applications in genomics and evolutionary biology.
 
 Relevant position:
 * Research Assistant in the Andean Bear Project at the [Research Institute for Ecology and Coservation](https://www.iiecco.org) (Trujillo, Peru).
@@ -11,7 +11,7 @@ Relevant position:
 * Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
 
 You can check out my previous positions and learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/sciruiz/).
-If you are interested to contact me you can complete this [Google Form](https://forms.gle/ctKMwxgKzokTyNzD6). I'll be in touch soon!
+You can contact me through this [Google Form](https://forms.gle/ctKMwxgKzokTyNzD6). I'll be in touch soon!
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -27,8 +27,9 @@ If you are interested to contact me you can complete this [Google Form](https://
 ![Transcriptomics](https://img.shields.io/badge/Transcriptomics-orange?style=flat-square&logo=files&logoColor=white)
 
 ## Research interests
-Sensing and perception evolution, the role of gene duplications in protein evolution and the emergence of new traits. 
-Efforts towards reconstructing the natural history behind the web of life. 
+* Evolution of sensing and perception, particularly the role of gene duplications in the emergence of novel traits.
+* Integration of multi-omics data (genomics, transcriptomics, and single-cell sequencing) to reconstruct evolutionary changes in a stepwise.
+* Large-scale phylogenetic analyses to uncover the natural history of life, combining with artificial intelligence to refine analytical methodologies.
 
 _“An understanding of the natural world is a source of not only great curiosity, but great fullfilment.” – David Attenborough_
 <!--
