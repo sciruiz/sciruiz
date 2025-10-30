@@ -5,10 +5,10 @@
 ## About Me
 I am a researcher with a strong passion for exploring the evolutionary history of sensing and perception in the context of multicellularity, with a particular interest in non-model organisms. Eukarya enthusiastic! I hold a MSc. Bioinformatics form the University of Bristol (2023/24), graduated with distinction, and a BSc. Biology from the Cayetano Heredia Peruvian University. I am eager to help advance and refine workflows for next-generation sequencing (NGS) analysis and their applications in genomics and evolutionary biology.
 
-Relevant position:
-* Research Assistant in the Andean Bear Project at the [Research Institute for Ecology and Coservation](https://www.iiecco.org) (Trujillo, Peru).
-* Collaborated in the design and leading of practical sessions for the Evolution undergrad course at Cayetano Heredia Peruvian University (Tree-Thinking, Phylogenetic Reconstruction, Data Mining and Topics in R).
-* Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
+Relevant experience:
+* Designed and implemented a bioinformatics workflow to extract genes of interest from Illumina sequencing data—integrating FastQC, Trimmomatic, HISAT2, and Samtools/BCFtools in a Unix environment, to  streamline gene extraction and enhanced future genomic (see more in this [GitHub Repository](https://github.com/sciruiz/euk-illumina-gene-extraction-pipeline)) and automatization of phylogenetic analyses (see more in [Kawsay Tree](https://github.com/sciruiz/KawsayTree)). 
+* Supported ecological research on the Andean bear by contributing to organising and pre-processing of the data that informed habitat modeling and conservation strategies in northern Peru.
+* Co-designed and led practical sessions on phylogenetic reconstruction, data mining, and R-based analysis, improving students’ practical understanding of evolutionary methods and computational tools (see more in [EvoTutorials](https://sciruiz.github.io/evotutorials)).
 
 You can check out my previous positions and learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/sciruiz/).
 You can contact me through this [Google Form](https://forms.gle/ctKMwxgKzokTyNzD6). I'll be in touch soon!
