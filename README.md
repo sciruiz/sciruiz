@@ -7,7 +7,7 @@ I am a researcher with a strong passion for exploring the evolutionary history o
 
 Relevant position:
 * Research Assistant in the Andean Bear Project at the [Research Institute for Ecology and Coservation](https://www.iiecco.org) (Trujillo, Peru).
-* Collaborate the practical sessions for the undergraduate Evolution course at Cayetano Heredia Peruvian University (Tree-Thinking, Phylogenetic Reconstruction, Data Mining and Topics in R).
+* Collaborated in the design and leading of practical sessions for the Evolution undergrad course at Cayetano Heredia Peruvian University (Tree-Thinking, Phylogenetic Reconstruction, Data Mining and Topics in R).
 * Freelancer, specializing in NGS data analysis and applications of AI  (Machine Learning and Image processing).
 
 You can check out my previous positions and learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/sciruiz/).
